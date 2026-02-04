@@ -16,7 +16,7 @@
         new_2: new_2 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LS(W) &kp E &kp D &kp N7 &kp N4 &kp LS(N) &kp M &kp D &kp N7 &kp N4 &kp LG(LS(N4)) &kp N0 &kp N0 &kp N3>;
+            bindings = <&kp LS(W) &kp E &kp D &kp N7 &kp N4 &kp LS(N) &kp M &kp D &kp N7 &kp N4 &kp LS(N4) &kp N0 &kp N0 &kp N3>;
             label = "NEW_2";
         };
     };
